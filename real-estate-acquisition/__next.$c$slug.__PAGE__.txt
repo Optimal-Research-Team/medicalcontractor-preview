@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/medicalcontractor-preview/_next/static/chunks/438v1rqtrywi6.js"
+4:"/medicalcontractor-preview/_next/static/chunks/3_jkd782u8htt.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/medicalcontractor-preview/_next/static/chunks/0h-nvoh1vcom3.js"
+c:I[22016,["$3","$4","$b"],""]
+d:I[97367,["$3","$4"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"page-hero","children":["$","div",null,{"className":"container","children":[["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","0",{"children":["$","$Lc",null,{"href":"/","children":"Home"}]}],["$","li","1",{"children":["$","span",null,{"aria-current":"page","children":"Real Estate Acquisition"}]}]]}]}],["$","div",null,{"className":"ph-grid","children":[["$","div",null,{"className":"ph-copy","children":[["$","span",null,{"className":"eyebrow","children":"Services"}],["$","h1",null,{"className":"display","children":"Real Estate Acquisition"}],["$","p",null,{"className":"lead","dangerouslySetInnerHTML":{"__html":"Investing in a multi-tenant office, or better described Medical Building is a big step. It can be financially lucrative, or a financial mess.<br> Not all professionals who invest in multi-tenant spaces survives. With our expertise and support we can guide you through the process."}}],"$undefined",false]}],["$","div",null,{"className":"ph-fig","children":["$","figure",null,{"className":"fig hero-fig","children":["$","div",null,{"className":"frame","style":{"aspectRatio":"900 / 600"},"children":["$","img",null,{"src":"/medicalcontractor-preview/media/2024/07/realestate-istock-176861453-900x600-1.jpg","alt":"","width":900,"height":600,"loading":"lazy"}]}]}]}]]}]]}]}],null,["$","div",null,{"className":"container sheets","children":[["$","section","0",{"className":"sheet untitled","children":[["$","div",null,{"className":"sheet-side","children":["$undefined",null,null]}],["$","div",null,{"className":"prose","children":[["$","p","0",{"dangerouslySetInnerHTML":{"__html":"We are able to source good locations, solicit core tenants, and build a financial model that is profitable. Investing in our expertise could either cost you or make you millions."}}],["$","p","1",{"dangerouslySetInnerHTML":{"__html":"<a href=\"https://calendly.com/justin-kearney/30min\"><strong>For more information book a consultation</strong></a>"}}]]}]]}]]}],false,null,["$","section",null,{"className":"cta-band","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"cta-inner","children":[["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"Planning a clinic or pharmacy?"}],["$","p",null,{"className":"h3","children":"Talk it through with Justin on a 30-minute call."}]]}],["$","div",null,{"className":"cta-actions","children":[["$","$Lc",null,{"className":"btn btn-primary","href":"/contact-us/#book","children":"Book a 30-minute call"}],["$","a",null,{"className":"btn btn-secondary","href":"tel:+14164602900","children":["Call ","416.460.2900"]}]]}]]}]}]}]],[["$","script","script-0",{"src":"/medicalcontractor-preview/_next/static/chunks/0h-nvoh1vcom3.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"real-estate-acquisition","s":["news"]},"h":65600,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#ECE6DC"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Real Estate Acquisition · Medical Contractor"}],["$","meta","1",{"name":"description","content":"Investing in a multi-tenant office, or better described Medical Building is a big step. It can be financially lucrative, or a financial mess. Not all professi"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://medicalcontractor.ca/real-estate-acquisition/"}],["$","link","4",{"rel":"icon","href":"/medicalcontractor-preview/assets/brand/favicon.png"}],["$","$L15","5",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"qzl3QMYTXUu5RA17YNPAi"}
+f:null
+18:true
+9:300
+9:C
+17:0
+7:"$undefined"
+16:"$undefined"
+10:"$undefined"
