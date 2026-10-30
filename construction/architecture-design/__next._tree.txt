@@ -1,7 +1,7 @@
-:HL["/medicalcontractor-preview/_next/static/chunks/0spzc0-lshvm0.css","style"]
+:HL["/medicalcontractor-preview/_next/static/chunks/0wm_1th22wz_k.css","style"]
 :HL["https://rsms.me/inter/inter.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500..900&family=JetBrains+Mono:wght@400;500&display=swap","style"]
 :HL["/medicalcontractor-preview/assets/brand/logo-on-light.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"c","k":"construction/architecture-design","s":["news"]},"h":65600,"c":"$Q2"}]]
-0:{"b":"qzl3QMYTXUu5RA17YNPAi","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"0IlAHAVk7sVcrCFwOUnjX","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
